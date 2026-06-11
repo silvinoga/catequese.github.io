@@ -123,7 +123,7 @@
       </div>
 
       <h1>Envio de Imagens</h1>
-      <img width="80" height="45" alt="Ficha" src="https://github.com/user-attachments/assets/15138f18-0a9d-461d-a480-bc302b599707" />
+      Ficha.png
 
       <p class="subtitulo">
         Preencha o formulário abaixo e anexe suas imagens com segurança.
