@@ -1,4 +1,4 @@
-# catequese.github.io
+# Paróquia Nossa Senhora das Graças
   <style>
     *{
       margin:0;
