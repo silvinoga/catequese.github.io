@@ -123,7 +123,7 @@
       </div>
 
       <h1>Envio de Imagens</h1>
-      Ficha.png
+      <img src="Ficha.png" alt="Descrição da imagem" width="300"/>
 
       <p class="subtitulo">
         Preencha o formulário abaixo e anexe suas imagens com segurança.
